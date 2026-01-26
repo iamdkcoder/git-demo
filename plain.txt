@@ -1,3 +1,25 @@
-TODO:
+HR Payroll
 
-1. How can i go back to my previous state(code )
+1. Adming Site/login
+2. User Site/login
+
+
+
+1st Week
+1. NavBar
+2. Hero Section
+3. Footer Section
+
+
+
+3rd Week
+
+Problem
+1. I need a way to revert to previous expected state or undo my changes, and also preserve somewhere so that i can merge the changes back
+
+
+sasdbfs
+
+
+
+
